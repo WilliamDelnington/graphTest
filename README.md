@@ -4,9 +4,9 @@ Push your project here.
 
 ===
 
-Student Name: NOT-VIETNAMESE.
+Student Name: Nguyen Vu Gia Huy
 
-Student ID: USTH-ID.
+Student ID: BA12-088.
 
 ===
 

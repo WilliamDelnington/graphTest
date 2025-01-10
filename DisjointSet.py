@@ -120,7 +120,6 @@ def dijkstra(graph, start, end):
                 new_distance = curr_distance + weight
                 if new_distance < distances[neighbor]:
                     distances[neighbor] = new_distance
-                    print(new_distance, neighbor)
                     heapq.heappush(pq, (new_distance, neighbor))
 
     return float("inf")

@@ -35,7 +35,7 @@ Ho Chi Minh City	Cu Chi 			50
 Cu Chi			Tay Ninh		50
 Tay Ninh		Moc Bai 		55
 Ho Chi Minh City	Mui Ne 			220
-Ho Chi Minh City	Dalat 			340
+Ho Chi Minh City	Da Lat 			340
 Ho Chi Minh City	Buon Ma Thuot 		336
 Buon Ma Thuot		Kontum 			250
 Kontum			Phuoc Son 		220
